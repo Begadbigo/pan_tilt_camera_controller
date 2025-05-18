@@ -65,5 +65,5 @@ I implemented all core functionalities including analog reading, servo motion wi
 ## Project Links
 
 - [Wokwi Project Link](https://wokwi.com/projects/431301456840524801)  
-- [GitHub Repository](https://github.com/begadbigo/pan_tilt_camera_controller)
+- [GitHub Repository](https://github.com/Begadbigo/pan_tilt_camera_controller)
 
